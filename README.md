@@ -1,10 +1,14 @@
 # TicketingApp
   This is a Spring Boot application.
+  
   A RESTful Web Service for a ticketing system.
+  
   The webserver I have used was Tomcat.
+  
   
 # REST Implementation
   For the REST implementation I have used JAX-RS.
+  
   I could have used the Spring REST.
   
   Endpoints:
