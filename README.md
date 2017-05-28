@@ -29,9 +29,13 @@
   
 # Database 
   As my database I have used a Postgres database.
+  
   For database connection and interrogations I used Hibernate.
+  
   My application has 2 entities Ticket and Event.
+  
   
 # Tests
   I tested the cancel ticket functionality.
+  
   I used Mockito framework to mock the daos and the services.
