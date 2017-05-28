@@ -8,6 +8,7 @@
   I could have used the Spring REST.
   
   Endpoints:
+  
   EVENT ENDPOINTS:
      /event             POST      - create an event
      /event/dummy       GET       - get a representation of the Event object
